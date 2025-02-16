@@ -1,16 +1,29 @@
-# git_src_currency_prces
+# Flutter Telegram Mini App
 
-Access relat-time fiat and crypto prices
+This repository contains the **Flutter client-side application** for displaying real-time fiat and cryptocurrency prices. The application connects to the **Vania-based backend server** and integrates seamlessly with **Telegram Mini-Applications**.
 
-## Getting Started
+## Features
+- Fetches real-time fiat and cryptocurrency prices.
+- Uses Telegram WebApps for seamless user experience.
+- Built with Flutter for cross-platform support.
+- Communicates with a **Vania Dart framework** backend.
 
-This project is a starting point for a Flutter application.
+## Server-Side Repository
+The backend server for this application is implemented using **Vania Dart framework** and can be found here:
+- **Vania Git Src Server**: [GitHub Repository](https://github.com/babakcode/vania_git_src_server)
 
-A few resources to get you started if this is your first Flutter project:
+## References
+- **Real-time Currency Prices API**: [currency.babakcode.com](https://currency.babakcode.com)
+- **Telegram Mini-Applications Documentation**: [Telegram WebApps](https://core.telegram.org/bots/webapps)
+- **Vania Framework**: [Vania Dart Framework](https://vdart.dev)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Results
+You can test this application in:
+- **Telegram Bot**: [@GitSrcBot](https://t.me/GitSrcBot)
+- **Telegram WebApp**: [GitSrcBot Currency](https://t.me/GitSrcBot/currency)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshot
+![Client-Side Application](PLACEHOLDER_FOR_SCREENSHOT)
+
+---
+Developed with ❤️ using Flutter & Vania.
