@@ -1,0 +1,32 @@
+name: git_src_currency_prces
+description: "Access real-time fiat and crypto prices"
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+2
+
+environment:
+  sdk: ^3.6.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  dio: ^5.8.0+1
+  flutter_svg: ^2.0.17
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^5.0.0
+
+flutter:
+
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  #assets:
+  # - assets/logo/
+
